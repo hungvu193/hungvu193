@@ -5,6 +5,7 @@
 🌱 I’m currently learning Python, Rasa Open Source and making game with Unity.
 
 💬 Ask me about React, React Native and Android.
+
 :pleading_face: I'm looking for freelancer jobs
 
 ⚡ Fun fact: I love cats 😻
