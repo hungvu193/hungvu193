@@ -8,7 +8,7 @@
 
 :pleading_face: I'm looking for freelancer jobs
 
-⚡ Fun fact: I love cats 😻
+⚡ Fun fact: I love cats and dogs 😻
 
 
 ### Languages and Tools:
