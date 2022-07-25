@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on React Native.
 
-🌱 I’m currently learning Python, Rasa Open Source and making game with Unity.
+🌱 I’m currently learning backend with Nestjs.
 
 💬 Ask me about React, React Native and Android.
 
