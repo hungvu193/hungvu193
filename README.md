@@ -6,9 +6,7 @@
 
 💬 Ask me about React, React Native and Android.
 
-:pleading_face: I'm looking for freelancer jobs
-
-⚡ Fun fact: I love cats and dogs 😻
+⚡ Fun fact: I love 🐱 and  🐶
 
 
 ### Languages and Tools:
@@ -21,4 +19,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hungvu193&" alt="hungvu193"/></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hungvu193&" alt="hungvu193"/></p> -->
