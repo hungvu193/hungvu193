@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hans
 
-🔭 I’m currently working on React Native.
+🔭 I’m currently working on React Native and Flutter.
 
 🌱 I’m currently learning backend with Nestjs.
 
